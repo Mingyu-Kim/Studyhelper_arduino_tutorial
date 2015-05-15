@@ -21,5 +21,8 @@
     <ClInclude Include="Visual Micro\.Studyhelper_Watch.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Visual Micro\.Studyhelper_arduino_tutorial.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
